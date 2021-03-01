@@ -1,0 +1,8 @@
+time:
+  interval: 60000
+polling:
+  interval:
+    rate:
+      millis: 1
+server:
+  port: 8083
